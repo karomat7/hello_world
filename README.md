@@ -1,3 +1,3 @@
-# hello_world2
+# hello_world
 This repository is for practicing the GitHub Flow
 hey this is karomat
